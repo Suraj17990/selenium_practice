@@ -1,0 +1,11 @@
+#ignore test data
+src/main/resources/testdata/
+
+#ignore .idea files
+.idea/
+
+#ignore iml file
+automation.iml
+
+#ignore target folder
+target/
